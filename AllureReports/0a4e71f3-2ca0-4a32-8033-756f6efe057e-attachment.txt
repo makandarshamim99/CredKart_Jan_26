@@ -1,0 +1,7 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:151 The chromedriver version (143.0.7499.169) detected in PATH at C:\Users\Saad\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_Credkart_User_Profile-001.py:66 Testcase test_verify_Credkart_url_001 is started
+[32mINFO    [0m root:test_Credkart_User_Profile-001.py:68 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_User_Profile-001.py:69 Checking driver title
+[32mINFO    [0m root:test_Credkart_User_Profile-001.py:71 Testcase test_verify_Credkart_url_001 is passed
+[32mINFO    [0m root:test_Credkart_User_Profile-001.py:72 Taking screenshot
+[32mINFO    [0m root:test_Credkart_User_Profile-001.py:83 Testcase test_verify_Credkart_url_001 is completed
