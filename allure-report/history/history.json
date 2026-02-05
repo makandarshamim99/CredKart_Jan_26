@@ -1,0 +1,1 @@
+{"aa36a23a3d34116ba182d7f0b8bc1590":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"927a3facc02ab64b","reportUrl":"http://localhost:9090/job/Project%20Jan%202026%20-%20CredKart/10/allure/#testresult/927a3facc02ab64b","status":"passed","time":{"start":1770317479865,"stop":1770317481061,"duration":1196}}]}}
